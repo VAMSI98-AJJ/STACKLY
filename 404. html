@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>404 | Page Not Found - Leafy Lane</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header><div class="wrap nav nf-nav">
+  <a href="index.html" class="logo">🌿 Leafy Lane</a>
+  <a href="index.html" style="font-weight:500">Home</a>
+</div></header>
+<main class="nf"><div>
+  <div class="big">4<i>🪴</i>4</div>
+  <h1>Oops! This page hasn't sprouted yet</h1>
+  <p>The page you're looking for is still growing or may have been moved. Let's get you back to greener pastures.</p>
+  <a href="index.html" class="btn">← Back to Home</a>
+</div></main>
+</body>
+</html>

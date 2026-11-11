@@ -1,0 +1,168 @@
+None selected 
+
+Skip to content
+Using Gmail with screen readers
+6 of 45,530
+(no subject)
+Inbox
+
+Vamsi Krishna <kommeni050@gmail.com>
+07:21 (2 hours ago)
+to me
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Leafy Lane | Plants, Planters & Garden Essentials</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header><div class="wrap nav">
+  <a href="index.html" class="logo">🌿 Leafy Lane</a>
+  <button class="burger" aria-label="Menu" aria-expanded="false">☰</button>
+  <ul class="menu">
+    <li><a href="index.html" class="on">Home</a></li>
+    <li><a href="404.html">About Us</a></li>
+    <li><a href="404.html">Services</a></li>
+    <li><a href="404.html">Contact Us</a></li>
+    <li><a href="404.html">Login</a></li>
+    <li><a href="404.html" class="btn">Register</a></li>
+  </ul>
+</div></header>
+
+<main>
+<section class="hero"><div class="wrap">
+  <div>
+    <span class="tag">Fresh from our nursery</span>
+    <h1>Bring Nature Into Every Corner</h1>
+    <p>Healthy houseplants, handmade planters and garden essentials, delivered to your door and ready to thrive.</p>
+    <div class="btns"><a href="404.html" class="btn">Shop Plants</a><a href="404.html" class="btn alt">Plant Care Tips</a></div>
+  </div>
+  <div class="art">🪴</div>
+</div></section>
+
+<section><div class="wrap">
+  <div class="title"><h2>Shop by Category</h2><p>Find the perfect green companion</p></div>
+  <div class="grid">
+    <a href="404.html" class="card cat"><span>🌿</span>Indoor Plants</a>
+    <a href="404.html" class="card cat"><span>🌵</span>Succulents</a>
+    <a href="404.html" class="card cat"><span>🏺</span>Planters</a>
+    <a href="404.html" class="card cat"><span>🧰</span>Garden Tools</a>
+  </div>
+</div></section>
+
+<section style="background:#fff"><div class="wrap">
+  <div class="title"><h2>Best Sellers</h2><p>Loved by plant parents everywhere</p></div>
+  <div class="grid">
+    <div class="card"><div class="pic" style="background:#e3f1e7">🌱</div><div class="in"><h3>Monstera Deliciosa</h3><p class="price">$24.00</p><a href="404.html" class="btn">Add to Cart</a></div></div>
+    <div class="card"><div class="pic" style="background:#fbe8de">🪴</div><div class="in"><h3>Snake Plant</h3><p class="price">$18.00</p><a href="404.html" class="btn">Add to Cart</a></div></div>
+    <div class="card"><div class="pic" style="background:#f6f0d6">🌵</div><div class="in"><h3>Desert Cactus Duo</h3><p class="price">$16.50</p><a href="404.html" class="btn">Add to Cart</a></div></div>
+    <div class="card"><div class="pic" style="background:#e4ebf5">🏺</div><div class="in"><h3>Ceramic Planter Set</h3><p class="price">$29.00</p><a href="404.html" class="btn">Add to Cart</a></div></div>
+  </div>
+</div></section>
+
+<section class="band"><div class="wrap">
+  <div class="title"><h2>Why Choose Leafy Lane</h2><p>Growing happier homes since 2015</p></div>
+  <div class="grid">
+    <div class="feat"><span>🚚</span><h3>Free Delivery</h3><p>On every order over $40, packed with care.</p></div>
+    <div class="feat"><span>💚</span><h3>Healthy Guarantee</h3><p>30-day replacement if your plant arrives unhappy.</p></div>
+    <div class="feat"><span>📖</span><h3>Expert Care Guides</h3><p>Simple tips from our in-house botanists.</p></div>
+  </div>
+</div></section>
+
+<section><div class="wrap">
+  <div class="title"><h2>Happy Plant Parents</h2></div>
+  <div class="grid">
+    <div class="quote">“My Monstera arrived perfectly packed and has doubled in size!”<b>Sara M.</b></div>
+    <div class="quote">“Great quality and the care guides saved my fiddle leaf fig.”<b>Daniel K.</b></div>
+    <div class="quote">“Beautiful planters and super quick delivery. Will order again.”<b>Priya R.</b></div>
+  </div>
+</div></section>
+
+<section class="news"><div class="wrap">
+  <h2>Join the Leafy Club</h2>
+  <p>Get seasonal care tips and 10% off your first order.</p>
+  <form action="404.html"><input type="email" name="email" placeholder="Your email address" aria-label="Email"><button class="btn" style="background:var(--t)">Subscribe</button></form>
+</div></section>
+</main>
+
+<footer><div class="wrap">
+  <div class="grid">
+    <div><h3>🌿 Leafy Lane</h3><p>Plants, planters and garden essentials for greener living.</p></div>
+    <div><h3>Quick Links</h3><ul><li><a href="index.html">Home</a></li><li><a href="404.html">About Us</a></li><li><a href="404.html">Services</a></li><li><a href="404.html">Contact Us</a></li></ul></div>
+    <div><h3>Account</h3><ul><li><a href="404.html">Login</a></li><li><a href="404.html">Register</a></li></ul></div>
+    <div><h3>Visit Us</h3><p>12 Garden Street<br>hello@leafylane.com</p></div>
+  </div>
+  <p class="copy">© <span id="y"></span> Leafy Lane. All rights reserved.</p>
+</div></footer>
+<script src="script.js"></script>
+</body>
+</html>
+
+
+:root{--g:#2f6b4f;--gd:#1f4a37;--c:#f7f3ea;--t:#d9734e;--ink:#1d2b24;--m:#5d6b63}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;color:var(--ink);background:var(--c);line-height:1.6}
+a{color:inherit;text-decoration:none}
+h1,h2,h3,.logo{font-family:Georgia,serif;line-height:1.2}
+.wrap{max-width:1140px;margin:auto;padding:0 20px}
+.btn{display:inline-block;padding:12px 26px;border-radius:50px;background:var(--g);color:#fff;font-weight:600;border:0;cursor:pointer;transition:.2s;font-size:1rem}
+.btn:hover{background:var(--gd);transform:translateY(-2px)}
+.btn.alt{background:transparent;color:var(--g);border:2px solid var(--g)}
+.btn.alt:hover{background:var(--g);color:#fff}
+header{position:sticky;top:0;z-index:10;background:rgba(247,243,234,.96);backdrop-filter:blur(8px);box-shadow:0 1px 0 rgba(0,0,0,.07)}
+.nav{display:flex;align-items:center;justify-content:space-between;height:70px}
+.logo{font-size:1.5rem;font-weight:700;color:var(--g)}
+.menu{display:flex;align-items:center;gap:26px;list-style:none}
+.menu a{font-weight:500}.menu a:hover,.menu a.on{color:var(--t)}
+.menu .btn{padding:8px 20px;color:#fff}.menu .btn:hover{color:#fff}
+.burger{display:none;background:none;border:0;font-size:1.8rem;cursor:pointer;color:var(--g)}
+.hero{padding:70px 0}
+.hero .wrap{display:grid;grid-template-columns:1.1fr 1fr;gap:40px;align-items:center}
+.tag{color:var(--t);font-weight:700;letter-spacing:.1em;font-size:.85rem;text-transform:uppercase}
+.hero h1{font-size:clamp(2.2rem,5vw,3.6rem);color:var(--gd);margin:10px 0}
+.hero p{margin:0 0 28px;color:var(--m);max-width:480px}
+.btns{display:flex;gap:14px;flex-wrap:wrap}
+.art{aspect-ratio:1;max-width:460px;width:100%;margin:auto;border-radius:50% 50% 40% 60%/55% 45% 55% 45%;background:linear-gradient(135deg,#cfe8d7,#7fb894);display:grid;place-items:center;font-size:min(36vw,210px)}
+section{padding:70px 0}
+.title{text-align:center;margin-bottom:40px}
+.title h2{font-size:clamp(1.7rem,4vw,2.4rem);color:var(--gd)}
+.title p{color:var(--m);margin-top:6px}
+.grid{display:grid;gap:24px;grid-template-columns:repeat(auto-fit,minmax(230px,1fr))}
+.card{background:#fff;border-radius:18px;overflow:hidden;box-shadow:0 6px 20px rgba(0,0,0,.06);transition:.25s}
+.card:hover{transform:translateY(-6px)}
+.pic{height:170px;display:grid;place-items:center;font-size:4.5rem}
+.in{padding:18px}.in h3{font-size:1.1rem}
+.price{color:var(--g);font-weight:700;margin:6px 0 14px}
+.cat{text-align:center;padding:28px 16px;font-weight:600;display:block}
+.cat span{display:block;font-size:2.8rem;margin-bottom:8px}
+.feat{text-align:center;padding:10px}.feat span{font-size:2.4rem}
+.feat p{opacity:.85}
+.band{background:var(--g);color:#fff}
+.band .title h2,.band .title p{color:#fff}
+.quote{background:#fff;color:var(--ink);padding:24px;border-radius:18px}
+.quote b{display:block;margin-top:12px;color:var(--g)}
+.news{text-align:center;background:var(--gd);color:#fff}
+.news form{display:flex;gap:10px;max-width:460px;margin:22px auto 0}
+.news input{flex:1;min-width:0;padding:12px 18px;border-radius:50px;border:0;font-size:1rem}
+footer{background:#14261d;color:#cfd9d3;padding:44px 0 20px}
+footer .grid{grid-template-columns:repeat(auto-fit,minmax(200px,1fr))}
+footer h3{color:#fff;margin-bottom:10px;font-size:1.05rem}
+footer li{list-style:none;margin:4px 0}footer a:hover{color:var(--t)}
+.copy{text-align:center;margin-top:30px;font-size:.9rem;opacity:.7}
+.nf{min-height:calc(100vh - 70px);display:grid;place-items:center;text-align:center;padding:40px 20px;background:radial-gradient(circle at 50% 30%,#e3f1e7,var(--c) 70%)}
+.big{font:700 clamp(6rem,28vw,12rem)/1 Georgia,serif;color:var(--g)}
+.big i{font-style:normal;display:inline-block;transform-origin:bottom;animation:sway 3s ease-in-out infinite}
+@keyframes sway{50%{transform:rotate(9deg)}}
+.nf h1{font-size:clamp(1.6rem,5vw,2.4rem);color:var(--gd);margin:6px 0 10px}
+.nf p{color:var(--m);max-width:440px;margin:0 auto 26px}
+@media(max-width:900px){.hero .wrap{grid-template-columns:1fr;text-align:center}.hero p{margin:0 auto 28px}.btns{justify-content:center}.art{max-width:320px;grid-row:1}}
+@media(max-width:820px){.burger{display:block}.menu{position:absolute;top:70px;left:0;right:0;background:var(--c);flex-direction:column;padding:20px;gap:16px;display:none;box-shadow:0 12px 20px rgba(0,0,0,.08)}.menu.open{display:flex}.nf .menu{display:flex;position:static;flex-direction:row;box-shadow:none;padding:0}}
+@media(max-width:480px){section{padding:50px 0}.news form{flex-direction:column}}
+
+
+
+
